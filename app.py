@@ -1,5 +1,4 @@
 import asyncio
-import logging
 
 from aiogram import Bot, Dispatcher, F
 from aiogram.filters import Command
@@ -14,10 +13,9 @@ from aiogram.types import (
     CallbackQuery
 )
 
-BOT_TOKEN = "8713021157:AAE-IW2HesesHRAThkJiQJ7UUWX_yP3dE2Y"
+TOKEN = "8713021157:AAE-IW2HesesHRAThkJiQJ7UUWX_yP3dE2Y"
 
-# Serverda nima bo'layotganini ko'rib turish uchun loglarni yoqamiz
-logging.basicConfig(level=logging.INFO)
+
 
 dp = Dispatcher()
 
