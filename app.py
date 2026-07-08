@@ -16,9 +16,6 @@ from aiogram.types import (
 TOKEN = "8713021157:AAE-IW2HesesHRAThkJiQJ7UUWX_yP3dE2Y"
 
 
-
-TOKEN = "Tokeningizni_shu_yerga_yozing"
-
 dp = Dispatcher()
 
 
