@@ -14,7 +14,7 @@ from aiogram.types import (
     CallbackQuery
 )
 
-TOKEN = "8713021157:AAE-IW2HesesHRAThkJiQJ7UUWX_yP3dE2Y"
+BOT_TOKEN = "8713021157:AAE-IW2HesesHRAThkJiQJ7UUWX_yP3dE2Y"
 
 # Serverda nima bo'layotganini ko'rib turish uchun loglarni yoqamiz
 logging.basicConfig(level=logging.INFO)
